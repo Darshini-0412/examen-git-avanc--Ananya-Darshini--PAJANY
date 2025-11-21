@@ -1,1 +1,1 @@
-future fonctionnalité: kles couleurs serontr ici.
+future fonctionnalité: les couleurs seront ici.
