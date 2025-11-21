@@ -1,0 +1,4 @@
+- Ma branche main est ma branche de base où j'ai fait quelques modifications sur le "README".
+- Ma branche dev, est la nouvelle branche que j'ai crée où j'ai intégré le nouveau fichier "branches.md" dans mon dossier docs
+- Ma branche feature sera une branche crée à partir de la branche dev pour les fonctionnalités nommées "feature-url"
+- Pour finir ma branche hotfix, où je fais les corrections necessaires.
